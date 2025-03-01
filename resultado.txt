@@ -1,5 +1,5 @@
 Link do código-fonte:
-[cole aqui o link do Google Colab, Replit ou GitHub]
+https://github.com/samuelcaldeira99/busca-palavras
 
 Dados de entrada:
 “Não atire o pau no gato
@@ -11,6 +11,31 @@ Não devemos maltratar os animais
 Jamais”
 
 Comparação de tempos:
-(Copie a tabela do terminal aqui)
+| Palavra       | Linear (µs) | Binária (µs) |
+|--------------|------------|-------------|
+| não          |    2664.00 |       7.30 |
+| atire        |     453.40 |       2.70 |
+| o            |    2462.80 |       1.00 |
+| pau          |    2532.30 |       1.30 |
+| no           |    2418.80 |       1.20 |
+| gato         |    2094.00 |       1.40 |
+| porque       |    2699.60 |       2.10 |
+| isso         |    2192.70 |       1.40 |
+| não          |    2442.40 |       1.20 |
+| se           |    3117.10 |       1.50 |
+| faz          |    1826.40 |       1.00 |
+| o            |    2436.80 |       1.40 |
+| gatinho      |    2023.50 |       1.10 |
+| é            |    3568.90 |       2.20 |
+| nosso        |    3168.60 |       1.90 |
+| amigo        |     313.10 |       1.30 |
+| não          |    3097.80 |       1.20 |
+| devemos      |    1657.00 |       1.30 |
+| maltratar    |    3044.00 |       1.10 |
+| os           |    3130.00 |       1.70 |
+| animais      |     359.80 |       1.90 |
+| jamais       |    2402.10 |       1.60 |
+
+
 
 Unidade de medida dos tempos: Microssegundos (µs)

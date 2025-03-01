@@ -1,0 +1,16 @@
+Link do código-fonte:
+[cole aqui o link do Google Colab, Replit ou GitHub]
+
+Dados de entrada:
+“Não atire o pau no gato
+Porque isso
+Não se faz
+O gatinho
+É nosso amigo
+Não devemos maltratar os animais
+Jamais”
+
+Comparação de tempos:
+(Copie a tabela do terminal aqui)
+
+Unidade de medida dos tempos: Microssegundos (µs)
